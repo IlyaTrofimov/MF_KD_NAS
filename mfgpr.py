@@ -1,9 +1,5 @@
 """Gaussian processes regression. """
 
-# Authors: Jan Hendrik Metzen <jhm@informatik.uni-bremen.de>
-#
-# License: BSD 3 clause
-
 import warnings
 from operator import itemgetter
 
